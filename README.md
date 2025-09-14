@@ -8,15 +8,15 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Caio Fernandes de Albuquerque
+- Matricula: 901324
+- Proposta de projeto escolhida: clone da pagina arc teryx
+- Breve descrição sobre seu projeto: fiz um clone de uma loja que vende acessorios de escaldas e trihas
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](homepage.png)
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](atlzd.png)
