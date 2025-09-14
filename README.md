@@ -15,8 +15,8 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Print da versão responsiva com CSS puro
 
-![alt text](homepage.png)
+![homepage.png](homepage.png)
 
 ## Print da versão responsiva com Bootstrap
 
-![alt text](atlzd.png)
+![atlzd.png](atlzd.png)
